@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/waild/LohikaNodeJSCourse_HW_S4_PassGen/issues"
   },
-  "homepage": "https://github.com/waild/LohikaNodeJSCourse_HW_S4_PassGen#readme"
+  "homepage": "https://github.com/waild/LohikaNodeJSCourse_HW_S4_PassGen#readme",
+  "dependencies": {
+    "commander": "^2.18.0"
+  }
 }
